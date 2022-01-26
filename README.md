@@ -1,4 +1,4 @@
-Truffle example with typechain support
+# Truffle example with Typechain support
 
 Please refer to [here](https://soliditydeveloper.com/typescript) for more information.
 
@@ -12,3 +12,5 @@ Please refer to [here](https://soliditydeveloper.com/typescript) for more inform
 ## References
 
 - [https://trufflesuite.com/docs/truffle/quickstart.html](https://trufflesuite.com/docs/truffle/quickstart.html)
+- [https://github.com/dethcrypto/TypeChain](https://github.com/dethcrypto/TypeChain)
+- [https://soliditydeveloper.com/typescript](https://soliditydeveloper.com/typescript)
